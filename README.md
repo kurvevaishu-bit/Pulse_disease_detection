@@ -1,4 +1,4 @@
-# 🌱 AI Crop Disease Detection System
+# 🌱 AI Pulse Disease Detection System
 
 An AI-powered web application that detects crop leaf diseases from uploaded images and provides disease-specific prevention recommendations. The project uses TensorFlow, MobileNetV2 Transfer Learning, and Streamlit to help farmers and agricultural professionals identify plant diseases quickly and accurately.
 
